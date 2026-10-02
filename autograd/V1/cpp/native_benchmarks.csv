@@ -1,0 +1,6 @@
+Implementation, Time_nanoseconds
+Naive_i_j_k_Engine,0.063
+Cache Aligned,0.049
+SIMD Optimized,0.002
+Naive_i_j_k_Engine,0.064
+SIMD Optimized,0.002
